@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GarethFurnell
 - 👀 I’m interested in Becoming a full stack developer
 - 🌱 I’m currently learning HTML, CSS, JS, React, NodeJS, C#, Java, and will be moving to C++ perhaps Carbon full time in future
-- 💞️ I’m looking to collaborate on websites to begin with
+- 💞️ I’m looking to collaborate on websites to begin with and contributing OOP code to smaller projects
 - 📫 How to reach me g.jfurnell@gmail.com
 
 <!---
