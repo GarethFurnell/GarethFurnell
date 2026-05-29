@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 *   🌍  I'm based in Cape Town, South Africa
 *   🖥️  See my portfolio at [Gareth Furnell](https://gareth-furnell-website.vercel.app/)
 *   ✉️  You can contact me at [g.jfurnell@gmail.com](mailto:g.jfurnell@gmail.com)
-*   ⚡  I am Currently a Full-Time MongoDB Database Administrator
+*   ⚡  I am Currently a Full-Time Analytics Engineer
 *   🧠  I'm learning C++, Carbon and Go in future
 *   ### Skills 
 <p align="left">
